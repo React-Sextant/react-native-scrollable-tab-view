@@ -1,5 +1,5 @@
 
-## react-native-scrollable-tab-view
+## react-native-scrollable-tab-view@0.10.1
 [![npm version](https://badge.fury.io/js/react-native-scrollable-tab-view.svg)](https://badge.fury.io/js/react-native-scrollable-tab-view)
 
 This is probably my favorite navigation pattern on Android, I wish it
